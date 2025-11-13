@@ -1,0 +1,324 @@
+2025-08-16 22:34:57 - Login page accessed
+2025-08-16 22:34:58 - Login page accessed
+2025-08-16 22:35:10 - Login page accessed
+2025-08-16 22:35:10 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-16 22:35:10 - Attempting login for: labonysur
+2025-08-16 22:35:10 - Login successful for user: labonysur (ID: 1)
+2025-08-16 22:35:10 - Email verified, proceeding with login
+2025-08-16 22:35:10 - Admin user logged in, redirecting to dashboard
+2025-08-16 22:35:10 - Login page accessed
+2025-08-16 22:35:10 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-16 22:35:10 - Attempting login for: labonysur
+2025-08-16 22:35:10 - Login successful for user: labonysur (ID: 1)
+2025-08-16 22:35:10 - Email verified, proceeding with login
+2025-08-16 22:35:10 - Admin user logged in, redirecting to dashboard
+2025-08-16 22:38:58 - Login page accessed
+2025-08-16 22:42:38 - Login page accessed
+2025-08-16 22:42:47 - Login page accessed
+2025-08-16 22:42:47 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-16 22:42:47 - Attempting login for: labonysur
+2025-08-16 22:42:47 - Login successful for user: labonysur (ID: 1)
+2025-08-16 22:42:47 - Email verified, proceeding with login
+2025-08-16 22:42:47 - Admin user logged in, redirecting to dashboard
+2025-08-16 22:42:47 - Login page accessed
+2025-08-16 22:42:47 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-16 22:42:47 - Attempting login for: labonysur
+2025-08-16 22:42:47 - Login successful for user: labonysur (ID: 1)
+2025-08-16 22:42:47 - Email verified, proceeding with login
+2025-08-16 22:42:47 - Admin user logged in, redirecting to dashboard
+2025-08-16 22:45:10 - Login page accessed
+2025-08-16 22:45:49 - Login page accessed
+2025-08-16 22:45:49 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-16 22:45:49 - Attempting login for: time
+2025-08-16 22:45:49 - Login successful for user: time (ID: 18)
+2025-08-16 22:45:49 - Email verified, proceeding with login
+2025-08-16 22:45:49 - Regular user logged in, redirecting to dashboard
+2025-08-16 22:47:57 - Login page accessed
+2025-08-16 22:48:07 - Login page accessed
+2025-08-16 22:48:07 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-16 22:48:07 - Attempting login for: time
+2025-08-16 22:48:08 - Login successful for user: time (ID: 18)
+2025-08-16 22:48:08 - Email verified, proceeding with login
+2025-08-16 22:48:08 - Regular user logged in, redirecting to dashboard
+2025-08-16 22:53:35 - Login page accessed
+2025-08-17 08:40:02 - Login page accessed
+2025-08-17 08:40:14 - Login page accessed
+2025-08-17 08:40:14 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 08:40:14 - Attempting login for: labonysur
+2025-08-17 08:40:14 - Login successful for user: labonysur (ID: 1)
+2025-08-17 08:40:14 - Email verified, proceeding with login
+2025-08-17 08:40:14 - Admin user logged in, redirecting to dashboard
+2025-08-17 08:40:14 - Login page accessed
+2025-08-17 08:40:14 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 08:40:14 - Attempting login for: labonysur
+2025-08-17 08:40:14 - Login successful for user: labonysur (ID: 1)
+2025-08-17 08:40:14 - Email verified, proceeding with login
+2025-08-17 08:40:14 - Admin user logged in, redirecting to dashboard
+2025-08-17 08:41:28 - Login page accessed
+2025-08-17 08:41:36 - Login page accessed
+2025-08-17 08:41:36 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 08:41:36 - Attempting login for: labonysur
+2025-08-17 08:41:36 - Login successful for user: labonysur (ID: 1)
+2025-08-17 08:41:36 - Email verified, proceeding with login
+2025-08-17 08:41:36 - Admin user logged in, redirecting to dashboard
+2025-08-17 08:41:36 - Login page accessed
+2025-08-17 08:41:36 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 08:41:36 - Attempting login for: labonysur
+2025-08-17 08:41:36 - Login successful for user: labonysur (ID: 1)
+2025-08-17 08:41:36 - Email verified, proceeding with login
+2025-08-17 08:41:36 - Admin user logged in, redirecting to dashboard
+2025-08-17 08:43:12 - Login page accessed
+2025-08-17 08:43:15 - Login page accessed
+2025-08-17 08:43:26 - Login page accessed
+2025-08-17 08:43:26 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 08:43:26 - Attempting login for: time
+2025-08-17 08:43:26 - Login successful for user: time (ID: 18)
+2025-08-17 08:43:26 - Email verified, proceeding with login
+2025-08-17 08:43:26 - Regular user logged in, redirecting to dashboard
+2025-08-17 08:43:26 - Login page accessed
+2025-08-17 08:43:26 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 08:43:26 - Attempting login for: time
+2025-08-17 08:43:26 - Login successful for user: time (ID: 18)
+2025-08-17 08:43:26 - Email verified, proceeding with login
+2025-08-17 08:43:26 - Regular user logged in, redirecting to dashboard
+2025-08-17 08:43:33 - Login page accessed
+2025-08-17 08:43:40 - Login page accessed
+2025-08-17 09:02:40 - Login page accessed
+2025-08-17 09:02:47 - Login page accessed
+2025-08-17 09:02:47 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 09:02:47 - Attempting login for: labonysur
+2025-08-17 09:02:47 - Login successful for user: labonysur (ID: 1)
+2025-08-17 09:02:47 - Email verified, proceeding with login
+2025-08-17 09:02:47 - Admin user logged in, redirecting to dashboard
+2025-08-17 09:02:47 - Login page accessed
+2025-08-17 09:02:47 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 09:02:47 - Attempting login for: labonysur
+2025-08-17 09:02:48 - Login successful for user: labonysur (ID: 1)
+2025-08-17 09:02:48 - Email verified, proceeding with login
+2025-08-17 09:02:48 - Admin user logged in, redirecting to dashboard
+2025-08-17 09:03:01 - Login page accessed
+2025-08-17 09:03:09 - Login page accessed
+2025-08-17 09:03:09 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 09:03:09 - Attempting login for: labonysur
+2025-08-17 09:03:09 - Login successful for user: labonysur (ID: 1)
+2025-08-17 09:03:09 - Email verified, proceeding with login
+2025-08-17 09:03:09 - Admin user logged in, redirecting to dashboard
+2025-08-17 09:03:09 - Login page accessed
+2025-08-17 09:03:09 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 09:03:09 - Attempting login for: labonysur
+2025-08-17 09:03:09 - Login successful for user: labonysur (ID: 1)
+2025-08-17 09:03:09 - Email verified, proceeding with login
+2025-08-17 09:03:09 - Admin user logged in, redirecting to dashboard
+2025-08-17 09:04:09 - Login page accessed
+2025-08-17 09:04:29 - Login page accessed
+2025-08-17 09:04:42 - Login page accessed
+2025-08-17 09:04:42 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 09:04:42 - Attempting login for: time
+2025-08-17 09:04:43 - Login successful for user: time (ID: 18)
+2025-08-17 09:04:43 - Email verified, proceeding with login
+2025-08-17 09:04:43 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 09:04:43 - Login page accessed
+2025-08-17 09:04:43 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 09:04:43 - Attempting login for: time
+2025-08-17 09:04:43 - Login successful for user: time (ID: 18)
+2025-08-17 09:04:43 - Email verified, proceeding with login
+2025-08-17 09:04:43 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 09:04:57 - Login page accessed
+2025-08-17 09:05:05 - Login page accessed
+2025-08-17 09:05:11 - Login page accessed
+2025-08-17 09:05:18 - Login page accessed
+2025-08-17 09:05:18 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 09:05:18 - Attempting login for: labonysur
+2025-08-17 09:05:18 - Login successful for user: labonysur (ID: 1)
+2025-08-17 09:05:18 - Email verified, proceeding with login
+2025-08-17 09:05:18 - Admin user logged in, redirecting to dashboard
+2025-08-17 09:05:18 - Login page accessed
+2025-08-17 09:05:18 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 09:05:18 - Attempting login for: labonysur
+2025-08-17 09:05:18 - Login successful for user: labonysur (ID: 1)
+2025-08-17 09:05:18 - Email verified, proceeding with login
+2025-08-17 09:05:18 - Admin user logged in, redirecting to dashboard
+2025-08-17 09:05:21 - Login page accessed
+2025-08-17 09:05:26 - Login page accessed
+2025-08-17 09:12:08 - Login page accessed
+2025-08-17 09:17:32 - Login page accessed
+2025-08-17 09:17:42 - Login page accessed
+2025-08-17 09:17:42 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 09:17:42 - Attempting login for: labonysur
+2025-08-17 09:17:42 - Login successful for user: labonysur (ID: 1)
+2025-08-17 09:17:42 - Email verified, proceeding with login
+2025-08-17 09:17:42 - Admin user logged in, redirecting to dashboard
+2025-08-17 09:17:42 - Login page accessed
+2025-08-17 09:17:42 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 09:17:42 - Attempting login for: labonysur
+2025-08-17 09:17:42 - Login successful for user: labonysur (ID: 1)
+2025-08-17 09:17:42 - Email verified, proceeding with login
+2025-08-17 09:17:42 - Admin user logged in, redirecting to dashboard
+2025-08-17 09:24:15 - Login page accessed
+2025-08-17 09:24:30 - Login page accessed
+2025-08-17 09:24:30 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 09:24:30 - Attempting login for: time
+2025-08-17 09:24:30 - Login successful for user: time (ID: 18)
+2025-08-17 09:24:30 - Email verified, proceeding with login
+2025-08-17 09:24:30 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 09:24:30 - Login page accessed
+2025-08-17 09:24:30 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 09:24:30 - Attempting login for: time
+2025-08-17 09:24:30 - Login successful for user: time (ID: 18)
+2025-08-17 09:24:30 - Email verified, proceeding with login
+2025-08-17 09:24:30 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 09:24:37 - Login page accessed
+2025-08-17 09:53:29 - Login page accessed
+2025-08-17 09:53:39 - Login page accessed
+2025-08-17 09:53:39 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 09:53:39 - Attempting login for: time
+2025-08-17 09:53:40 - Login successful for user: time (ID: 18)
+2025-08-17 09:53:40 - Email verified, proceeding with login
+2025-08-17 09:53:40 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 09:53:40 - Login page accessed
+2025-08-17 09:53:40 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 09:53:40 - Attempting login for: time
+2025-08-17 09:53:40 - Login successful for user: time (ID: 18)
+2025-08-17 09:53:40 - Email verified, proceeding with login
+2025-08-17 09:53:40 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 09:57:17 - Login page accessed
+2025-08-17 09:57:27 - Login page accessed
+2025-08-17 09:57:27 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 09:57:27 - Attempting login for: time
+2025-08-17 09:57:27 - Login successful for user: time (ID: 18)
+2025-08-17 09:57:27 - Email verified, proceeding with login
+2025-08-17 09:57:27 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 09:57:27 - Login page accessed
+2025-08-17 09:57:27 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 09:57:27 - Attempting login for: time
+2025-08-17 09:57:28 - Login successful for user: time (ID: 18)
+2025-08-17 09:57:28 - Email verified, proceeding with login
+2025-08-17 09:57:28 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 09:57:52 - Login page accessed
+2025-08-17 09:57:56 - Login page accessed
+2025-08-17 09:57:56 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 09:57:56 - Attempting login for: labonysur
+2025-08-17 09:57:57 - Login successful for user: labonysur (ID: 1)
+2025-08-17 09:57:57 - Email verified, proceeding with login
+2025-08-17 09:57:57 - Admin user logged in, redirecting to dashboard
+2025-08-17 09:57:57 - Login page accessed
+2025-08-17 09:57:57 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 09:57:57 - Attempting login for: labonysur
+2025-08-17 09:57:57 - Login successful for user: labonysur (ID: 1)
+2025-08-17 09:57:57 - Email verified, proceeding with login
+2025-08-17 09:57:57 - Admin user logged in, redirecting to dashboard
+2025-08-17 10:07:31 - Login page accessed
+2025-08-17 10:07:40 - Login page accessed
+2025-08-17 10:07:40 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 10:07:40 - Attempting login for: labonysur
+2025-08-17 10:07:40 - Login successful for user: labonysur (ID: 1)
+2025-08-17 10:07:40 - Email verified, proceeding with login
+2025-08-17 10:07:40 - Admin user logged in, redirecting to dashboard
+2025-08-17 10:07:40 - Login page accessed
+2025-08-17 10:07:40 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 10:07:40 - Attempting login for: labonysur
+2025-08-17 10:07:40 - Login successful for user: labonysur (ID: 1)
+2025-08-17 10:07:40 - Email verified, proceeding with login
+2025-08-17 10:07:40 - Admin user logged in, redirecting to dashboard
+2025-08-17 10:08:10 - Login page accessed
+2025-08-17 10:08:18 - Login page accessed
+2025-08-17 10:08:18 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 10:08:18 - Attempting login for: time
+2025-08-17 10:08:18 - Login successful for user: time (ID: 18)
+2025-08-17 10:08:18 - Email verified, proceeding with login
+2025-08-17 10:08:18 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 10:08:18 - Login page accessed
+2025-08-17 10:08:18 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 10:08:18 - Attempting login for: time
+2025-08-17 10:08:19 - Login successful for user: time (ID: 18)
+2025-08-17 10:08:19 - Email verified, proceeding with login
+2025-08-17 10:08:19 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 10:46:16 - Login page accessed
+2025-08-17 10:46:34 - Login page accessed
+2025-08-17 10:46:34 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 10:46:34 - Attempting login for: labonysur
+2025-08-17 10:46:34 - Login successful for user: labonysur (ID: 1)
+2025-08-17 10:46:34 - Email verified, proceeding with login
+2025-08-17 10:46:34 - Admin user logged in, redirecting to dashboard
+2025-08-17 10:47:44 - Login page accessed
+2025-08-17 10:47:44 - Login page accessed
+2025-08-17 10:47:54 - Login page accessed
+2025-08-17 10:47:54 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 10:47:54 - Attempting login for: time
+2025-08-17 10:47:54 - Login successful for user: time (ID: 18)
+2025-08-17 10:47:54 - Email verified, proceeding with login
+2025-08-17 10:47:54 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 10:51:10 - Login page accessed
+2025-08-17 10:51:16 - Login page accessed
+2025-08-17 10:51:16 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 10:51:16 - Attempting login for: labonysur
+2025-08-17 10:51:16 - Login successful for user: labonysur (ID: 1)
+2025-08-17 10:51:16 - Email verified, proceeding with login
+2025-08-17 10:51:16 - Admin user logged in, redirecting to dashboard
+2025-08-17 10:53:57 - Login page accessed
+2025-08-17 10:54:10 - Login page accessed
+2025-08-17 10:54:10 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 10:54:10 - Attempting login for: time
+2025-08-17 10:54:10 - Login successful for user: time (ID: 18)
+2025-08-17 10:54:10 - Email verified, proceeding with login
+2025-08-17 10:54:10 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 11:13:09 - Login page accessed
+2025-08-17 11:13:17 - Login page accessed
+2025-08-17 11:13:17 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 11:13:17 - Attempting login for: time
+2025-08-17 11:13:17 - Login successful for user: time (ID: 18)
+2025-08-17 11:13:17 - Email verified, proceeding with login
+2025-08-17 11:13:17 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 11:31:06 - Login page accessed
+2025-08-17 11:31:14 - Login page accessed
+2025-08-17 11:31:14 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 11:31:14 - Attempting login for: time
+2025-08-17 11:31:14 - Login successful for user: time (ID: 18)
+2025-08-17 11:31:14 - Email verified, proceeding with login
+2025-08-17 11:31:14 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 12:24:15 - Login page accessed
+2025-08-17 12:24:25 - Login page accessed
+2025-08-17 12:24:25 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 12:24:25 - Attempting login for: labonysur
+2025-08-17 12:24:25 - Login successful for user: labonysur (ID: 1)
+2025-08-17 12:24:25 - Email verified, proceeding with login
+2025-08-17 12:24:25 - Admin user logged in, redirecting to dashboard
+2025-08-17 12:29:26 - Login page accessed
+2025-08-17 12:29:33 - Login page accessed
+2025-08-17 12:29:33 - POST request received: {"usernameOrEmail":"moon","password":"23215680"}
+2025-08-17 12:29:33 - Attempting login for: moon
+2025-08-17 12:29:33 - Login successful for user: moon (ID: 19)
+2025-08-17 12:29:33 - Email verified, proceeding with login
+2025-08-17 12:29:33 - Regular user logged in, redirecting to user_dashboard
+2025-08-17 12:30:32 - Login page accessed
+2025-08-17 12:30:42 - Login page accessed
+2025-08-17 12:30:42 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 12:30:42 - Attempting login for: labonysur
+2025-08-17 12:30:42 - Login successful for user: labonysur (ID: 1)
+2025-08-17 12:30:42 - Email verified, proceeding with login
+2025-08-17 12:30:42 - Admin user logged in, redirecting to dashboard
+2025-08-17 12:37:40 - Login page accessed
+2025-08-17 12:37:57 - Login page accessed
+2025-08-17 12:38:05 - Login page accessed
+2025-08-17 12:38:05 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 12:38:05 - Attempting login for: labonysur
+2025-08-17 12:38:05 - Login successful for user: labonysur (ID: 1)
+2025-08-17 12:38:05 - Email verified, proceeding with login
+2025-08-17 12:38:05 - Admin user logged in, redirecting to dashboard
+2025-08-17 14:02:41 - Login page accessed
+2025-08-17 14:08:44 - Login page accessed
+2025-08-17 14:09:24 - Login page accessed
+2025-08-17 14:09:31 - Login page accessed
+2025-08-17 14:09:38 - Login page accessed
+2025-08-17 14:09:38 - POST request received: {"usernameOrEmail":"labonysur","password":"password"}
+2025-08-17 14:09:38 - Attempting login for: labonysur
+2025-08-17 14:09:38 - Login successful for user: labonysur (ID: 1)
+2025-08-17 14:09:38 - Email verified, proceeding with login
+2025-08-17 14:09:38 - Admin user logged in, redirecting to dashboard
+2025-08-17 14:17:51 - Login page accessed
+2025-08-17 14:18:00 - Login page accessed
+2025-08-17 14:18:00 - POST request received: {"usernameOrEmail":"time","password":"timelesslyh@gmail.com"}
+2025-08-17 14:18:00 - Attempting login for: time
+2025-08-17 14:18:00 - Login successful for user: time (ID: 18)
+2025-08-17 14:18:00 - Email verified, proceeding with login
+2025-08-17 14:18:00 - Regular user logged in, redirecting to user_dashboard
